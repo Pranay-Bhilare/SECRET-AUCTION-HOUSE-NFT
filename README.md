@@ -32,3 +32,16 @@ Use Cases:
 Artists and Creators can auction their NFTs without disclosing the bids of potential buyers, ensuring that the final bid price reflects genuine demand. Collectors can participate in auctions without fear of being outbid due to public exposure of their bids, fostering fair competition. Investors gain the confidence to participate in high-value NFT auctions with complete confidentiality.
 
 In summary, Secret Auction House for NFTs offers a privacy-first, secure, and decentralized solution for NFT auctions. It enhances trust in the auction process by ensuring that bids remain confidential and that only the highest bidder is revealed at the end of the auction. This creates a fairer, more secure environment for both sellers and buyers in the rapidly evolving NFT ecosystem.
+
+# What's Next
+**Integrating Payments using SNIP-20**:
+
+In future iterations, we plan to integrate payments via SNIP-20 tokens, Secret Network's privacy-focused fungible tokens. This will enhance transaction privacy further by ensuring that all payment details, along with bidding information, remain confidential.
+
+**Integrating with Existing NFT Marketplaces (e.g., Blur)**:
+
+To expand the reach of our platform, we aim to integrate with existing NFT marketplaces such as Blur. This integration will allow users to participate in auctions using NFTs from established marketplaces, creating a seamless experience across platforms while maintaining the privacy and security offered by Secret Auction House.
+
+**Secret-Compatible NFTs using SNIP-721**:
+
+Another key development will be the support for SNIP-721 tokens, Secret Network’s standard for privacy-preserving NFTs. This will enable auctions of Secret-compatible NFTs, ensuring that both the bidding process and the NFT content itself can remain private, further aligning with our mission to provide the most secure and private NFT auction experience.
